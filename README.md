@@ -1,0 +1,2 @@
+# alantarea
+Tarea informatica
